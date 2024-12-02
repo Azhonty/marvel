@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('marvel_image.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    overflow: hidden;
+}
+
+canvas {
+    border: 2px solid black;
+    background-color: white;
+}
